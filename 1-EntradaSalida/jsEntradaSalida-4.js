@@ -4,9 +4,9 @@
 */
 function mostrar()
 {		
-	var nombre		
-	nombre=prompt("Ingrese su nombre");		
-	document.getElementById('elNombre').value=nombre;
+	var dato		
+	dato=prompt("Ingrese su nombre");		
+	document.getElementById('elNombre').value=dato;
 	// alert muestra. prompt toma. izquierda de igual toma de la derecha
 }
 
