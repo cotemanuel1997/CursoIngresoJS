@@ -10,7 +10,7 @@ function mostrar()
 	{
 		
 	
-	}
+	}// num %2==0 es num par
 
 
 
