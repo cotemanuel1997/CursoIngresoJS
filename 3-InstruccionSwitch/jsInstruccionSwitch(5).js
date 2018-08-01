@@ -3,7 +3,15 @@ function mostrar()
 //tomo la edad  
 var laHora = document.getElementById('hora').value;
 
-//alert (laHora);
+alert (laHora);
+
+	switch(laHora)
+	{
+		if(laHora>7 && laHora<11)
+		{
+			alert("a")
+		}
+	}
 	
 	
 
